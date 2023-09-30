@@ -30,7 +30,7 @@ This Portfolio is a showcase of my passion for crafting digital experiences. Thi
 
 Embark on a journey through my digital world:
 
-[![Explore Now](https://img.shields.io/badge/Explore%20Now-Embark%20on%20Journey-blue)](#)
+[![Explore Now](https://img.shields.io/badge/Explore%20Now-Embark%20on%20Journey-blue)](https://subhadip-hazra.github.io/Subhadip-Portfolio/)
 
 ## Data Analyst Pro
 
