@@ -1,4 +1,4 @@
-# 🚀 Subhadip's Portfolio
+# 🚀 My Portfolio
 
 Welcome to My Portfolio, where creativity meets code! 🎨✨
 
