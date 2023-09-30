@@ -15,7 +15,7 @@ This Portfolio is a showcase of my passion for crafting digital experiences. Thi
 ## How to Explore
 
 1. **Dive into the Portfolio:**
-   - Click [here](#) to explore the portfolio and experience the magic firsthand.
+   - Click [here](https://subhadip-hazra.github.io/Subhadip-Portfolio/) to explore the portfolio and experience the magic firsthand.
 
 2. **Adapt for Your Style:**
    - Fork the repository and tailor it to match your style and showcase your projects.
