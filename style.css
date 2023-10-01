@@ -51,7 +51,7 @@ body {
 .box .resume .button{
     text-decoration: solid;
     position: relative;
-    left: 37rem;
+    left: 39.6rem;
     top: -16px;
     transition: transform .2s;
     color: #faf9f9;
@@ -90,7 +90,7 @@ body {
     display: flex;
     width: 80%;
     max-width: 1200px;
-    height: 720px;
+    height: 700px;
     margin: 0 auto;
 }
 #home{
@@ -106,7 +106,7 @@ header {
 }
 header h3{
     position: relative;
-    right:22.3rem;
+    right:24.4rem;
     top:7.4rem;
     font-family: Martian Mono;
     font-size: 17px;
@@ -114,7 +114,7 @@ header h3{
 header h1
 {
     position: relative;
-    right:14rem;
+    right:16.3rem;
     top:4rem;
     font-family: Young Serif;
     background-image: linear-gradient(
@@ -152,7 +152,7 @@ header p {
 header h2{
     position: relative;
     top: -0.1rem;
-    right: 14rem;
+    right: 16.3rem;
     font-family:Josefin Sans;
     font-size: 29.4px;
     color: var(--accent-color);
@@ -269,7 +269,7 @@ section h2 {
     width: 50px;
     height: 50px;
     right: 80%;
-    top: 51rem;
+    top: 50rem;
     border: 10px solid transparent;
     border-image: conic-gradient(
         #ff0000 0%,
@@ -455,7 +455,7 @@ animation-delay: calc(.2s * var(--i))
 .container3 i{
     position: relative;
     font-size: 35px;
-    left: 35rem;
+    left: 39rem;
     top:290px;
     padding: 20px;
     transition: transform .2s;
